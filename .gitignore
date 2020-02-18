@@ -1,0 +1,7 @@
+#Config file
+config.py
+
+#optimized / compiled
+__pycache__/
+*.pyo
+*.pyc
